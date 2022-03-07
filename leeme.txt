@@ -1,0 +1,4 @@
+SE DEBEN AÑADIR LOS FILEs AL CLASSPATH DE LA LIBRERIA DE JAVA: 
+jlayer y jaudiotagger.
+Seleccionar Proyecto-> Click Derecho-> Propierties-> Java Build Path-> Libraries-> Classpath-> Add_External_JARS-> Añadir el File JLayer->  Apply-> Apply and Close. 
+Seleccionar Proyecto-> Click Derecho-> Propierties-> Java Build Path-> Libraries-> Classpath-> Add_External_JARS-> Añadir el File jaudiotagger->  Apply-> Apply and Close. 
